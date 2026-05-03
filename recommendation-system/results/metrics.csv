@@ -1,4 +1,0 @@
-Model,RMSE,MAE,Precision@5,Recall@5
-Global Average,1.0886,0.8399,,
-SVD,0.9506,0.7361,0.8283,0.8549
-User-Based KNN,1.0839,0.8200,0.8278,0.8544
