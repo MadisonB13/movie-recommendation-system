@@ -1,13 +1,13 @@
 # Movie Recommendation System (CiaoDVD)
 
-**CSIT 360 / 557 — Advanced Techniques in Data Science**
+**CSIT 360 — Advanced Techniques in Data Science**
 **Spring 2026 — Project 2: Vibe Coding**
 
 A movie recommendation system built on the **CiaoDVD** dataset, comparing three classic collaborative-filtering algorithms.
 
 ## Team Members
 
-- Madison Berrios — [GitHub username]
+- Madison Berrios — [MadisonB13]
 
 ## Project Overview
 
