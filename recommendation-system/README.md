@@ -7,7 +7,7 @@ A movie recommendation system built on the **CiaoDVD** dataset, comparing three 
 
 ## Team Members
 
-- Madison Berrios — [GitHub username]
+- Madison Berrios — [MadisonB13]
 
 ## Project Overview
 
